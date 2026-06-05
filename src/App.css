@@ -1,0 +1,7 @@
+.app{
+  max-width:600px;  
+  margin:auto;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  }
